@@ -26,7 +26,7 @@ echo -e "${b}  ║${k}TANGGAL:"${m}[${pu}$TANGGAL${m}]${b}║${b}~║${k}BULAN:"
 echo -e "${b}  ╚════════════╝${b} ╚══════════╝${b} ╚════════════╝"
 echo -e "${k}<════════════════════════════════════════════>"
 echo
-echo " ║ ${m}Nick : ./HEZAL         ║ ║ ${m}Youtube  : Inti Tutorial   ║ "  
-echo " ║ ${b}Team : NewbieTester Id ║ ║ ${h}Whatsapp : 0853-3261-4787  ║ "  
+echo " ${m}║ Nick : ./HEZAL         ║ ║ Youtube  : Inti Tutorial   ║ "  
+echo " ${b}║ Team : NewbieTester Id ║ ${h}║ Whatsapp : 0853-3261-4787  ║ "  
 echo
 export PS1='\[[01;39m\][ \[[01;31m\]${PWD/*\//}\[[01;39m\] ]\[[01;32m\]•\[[01;32m\]>\[[01;33m\] '
