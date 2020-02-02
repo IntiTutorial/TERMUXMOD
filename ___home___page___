@@ -1,31 +1,3 @@
-#Decrypt By ./HEZAL
-#https://github.com/IntiTutorial
-k="[33;1m"
-m="[31;1m"
-pu="[39;1m"
-p="[36;1m"
-b="[34;1m"
-h="[32;1m"
-JAM=`date +%H`
-MENIT=`date +%M`
-DETIK=`date +%S`
-TANGGAL=`date +%d`
-BULAN=`date +%m`
-TAHUN=`date +%Y`
-mp="[41;1;39m"
-o="[0m"
-clear
-echo
-echo -e "           ${m}[ ${pu}TIME ZONE INDONESIA ${m}]"
-echo -e "${b}     ╔════════╗${b} ╔════════╗${b} ╔════════╗"
-echo -e "${b}     ║${k}JAM:"${m}[${pu}$JAM${m}]${b}║~${b}║${k}MENIT:"${m}[${pu}$MENIT${m}]${b}║${b}~║${k}DETIK:${m}["${pu}$DETIK${m}]${b}║
-echo -e "${b}     ╚════════╝${b} ╚══════════╝${b} ╚══════════╝"
-echo -e "                 ${m}[ ${pu}KALENDER ${m}]"
-echo -e "${b}  ╔════════════╗${b} ╔══════════╗${b} ╔════════════╗"
-echo -e "${b}  ║${k}TANGGAL:"${m}[${pu}$TANGGAL${m}]${b}║${b}~║${k}BULAN:"${m}[${pu}$BULAN${m}]${b}║${b}~║${k}TAHUN:${m}["${pu}$TAHUN${m}]${b}║
-echo -e "${b}  ╚════════════╝${b} ╚══════════╝${b} ╚════════════╝"
-echo -e "${k}<════════════════════════════════════════════>"
-echo
-toilet -f pagga                ./HEZAL | lolcat  
-echo
-export PS1='\[[01;39m\][ \[[01;31m\]${PWD/*\//}\[[01;39m\] ]\[[01;32m\]•\[[01;32m\]>\[[01;33m\] '
+z="
+";xBz='m}[ ';VBz='{b}║';pBz='}║';Fz='pu="';YBz='k}ME';MBz='}  ╔';tBz='╝${b';sBz=' ╚══';Oz='JAM=';LBz='╗${b';ODz='] '\''';ECz='} ╔═';jCz='et -';CDz='PWD/';dBz='T${m';RCz='m}[$';QBz='AM:"';WBz='~${b';TBz='AM${';DCz='m}]"';JCz='${k}';FCz='═╗${';oCz='AL |';JDz='1;32';GBz='  ╔═';Lz='[34;';qCz='cat';NDz='33m\';Az='k="';Cz='1m"';sCz='rt P';pz='echo';eCz='╝"';ADz=';31m';MDz='>\[';hz='mp="';FDz='[01;';mCz='   .';dz='N=`d';kz='9m"';ez='+%m`';kCz='f pa';Nz='[32;';SBz='u}$J';SCz='{pu}';OCz='{k}B';uBz='}  ╚';BCz='ENDE';NBz='══╗"';ZCz='N${m';Xz='K=`d';TCz='$BUL';hCz='══>"';VCz='~║${';Vz='+%M`';yz=' IND';cz='BULA';sz='    ';oBz=']${b';fz='TAHU';kBz='{m}[';Yz='+%S`';lz='o="';uz='[ ${';nz='clea';fBz='b}║$';Wz='DETI';XCz='HUN:';KCz='GAL:';tCz='S1='\''';qBz='  ╚═';nBz='ETIK';jz=';1;3';az='GAL=';hBz='║${k';Tz='T=`d';vCz='01;3';yCz='[01';yBz='${pu';KBz=' ╔══';KDz='m\]•';PCz='ULAN';dCz='b} ╚';BDz='\]${';Dz='m="';Jz='[36;';LDz='2m\]';ICz='}  ║';fCz='"${k';PBz='{k}J';nCz='/HEZ';jBz='IK:$';BBz='IA $';Zz='TANG';eBz='}]${';uCz='\[[';Iz='p="';rCz='expo';ZBz='NIT:';UCz='AN${';mz='[0m"';aBz='"${m';iCz='toil';IDz='[[0';HDz='] ]\';CCz='R ${';LCz='GAL$';cBz='pu}$';Pz='`dat';gz='+%Y`';ACz='}KAL';Hz=';1m"';EDz='}\[';UBz='m}]$';vz='pu}T';wz='IME ';HBz='════';lCz='gga ';Kz='b="';rBz='═══╝';pCz=' lol';iBz='}DET';mBz='u}$D';cCz='═╝${';ABz='ONES';wCz='9m\]';GCz='b} ╔';aCz='b}║';CBz='{m}]';Ez='[31;';Sz='MENI';rz='"   ';HCz='╗"';EBz='"${b';FBz='}   ';bCz='} ╚═';DDz='*\//';Bz='[33;';GDz='39m\';bz='d`';oz='r';gCz='}<══';QCz=':"${';YCz='["${';wBz='  ${';xz='ZONE';iz='[41';NCz='}~║$';tz='${m}';Qz='e +%';MCz='║${b';xCz='[ \[';XBz='}║${';Mz='h="';vBz='══╝"';bBz='}[${';IBz='═══╗';JBz='${b}';Uz='ate ';OBz='  ║$';WCz='k}TA';Gz='[39';lBz='"${p';qz=' -e ';gBz='{b}~';DBz='"';RBz='[${p';Rz='H`';
+eval "$Az$Bz$Cz$z$Dz$Ez$Cz$z$Fz$Gz$Hz$z$Iz$Jz$Cz$z$Kz$Lz$Cz$z$Mz$Nz$Cz$z$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$z$Wz$Xz$Uz$Yz$z$Zz$az$Pz$Qz$bz$z$cz$dz$Uz$ez$z$fz$dz$Uz$gz$z$hz$iz$jz$kz$z$lz$mz$z$nz$oz$z$pz$z$pz$qz$rz$sz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$z$pz$qz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$HBz$HBz$LBz$MBz$HBz$HBz$NBz$z$pz$qz$EBz$FBz$OBz$PBz$QBz$tz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$Sz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$tz$oBz$pBz$z$pz$qz$EBz$FBz$qBz$HBz$rBz$JBz$sBz$HBz$HBz$tBz$uBz$HBz$HBz$vBz$z$pz$qz$rz$sz$sz$sz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$z$pz$qz$EBz$MBz$HBz$HBz$HBz$LBz$ECz$HBz$HBz$FCz$GCz$HBz$HBz$HBz$HCz$z$pz$qz$EBz$ICz$JCz$Zz$KCz$aBz$bBz$cBz$Zz$LCz$CBz$JBz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$UBz$VBz$JBz$VCz$WCz$XCz$tz$YCz$cBz$fz$ZCz$eBz$aCz$z$pz$qz$EBz$uBz$HBz$HBz$HBz$tBz$bCz$HBz$HBz$cCz$dCz$HBz$HBz$HBz$eCz$z$pz$qz$fCz$gCz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$hCz$z$pz$z$iCz$jCz$kCz$lCz$sz$sz$sz$mCz$nCz$oCz$pCz$qCz$z$pz$z$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$uCz$vCz$LDz$MDz$FDz$NDz$ODz"
