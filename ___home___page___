@@ -17,7 +17,7 @@ o="[0m"
 clear
 echo
 echo -e "           ${m}[ ${pu}TIME ZONE INDONESIA ${m}]"
-echo -e "${b}     ╔════════╗${b} ╔═════════╗${b} ╔═════════╗"
+echo -e "${b}     ╔════════╗${b} ╔══════════╗${b} ╔══════════╗"
 echo -e "${b}     ║${k}JAM:"${m}[${pu}$JAM${m}]${b}║~${b}║${k}MENIT:"${m}[${pu}$MENIT${m}]${b}║${b}~║${k}DETIK:${m}["${pu}$DETIK${m}]${b}║
 echo -e "${b}     ╚════════╝${b} ╚══════════╝${b} ╚══════════╝"
 echo -e "                 ${m}[ ${pu}KALENDER ${m}]"
